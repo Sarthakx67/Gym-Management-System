@@ -38,12 +38,4 @@ Integrated Development Environment: VSCode.
 
 ![Screenshot 2023-04-07 200247](https://user-images.githubusercontent.com/100932107/230634923-7bdd81ec-6bf8-48bf-b85d-41b37534b540.png)
 
-# Hi, I'm Kalyan! 👋
-🚀 About Me
 
-A full stack, Passionate , Young , Web developer. Breathing Teck & Computers, Never Stop learning and discovering stuff.
-
-# Appendix
-Don't mind to give the app a star ⭐ 
-
-Thank you
